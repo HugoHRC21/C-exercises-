@@ -1,0 +1,4 @@
+Información de la Persona: 
+Nombre: carlos, Edad: 24
+Información del estudiante: 
+Nombre: Roberto, Edad: 25, Carrera: Psicologia

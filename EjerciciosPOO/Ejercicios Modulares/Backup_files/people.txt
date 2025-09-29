@@ -1,0 +1,51 @@
+Emilio Rios,25,Arqueología,27098712
+Carlos Garcia,22,Arquitectura,27000567
+Ana Torres,28,Derecho,27003456
+Mariana Aguirre,25,Educación,27045612
+Patricia Carrillo,31,Diseño Gráfico,27023490
+Maria Lopez,25,Medicina,27000045
+Diego Morales,31,Física,27011223
+Gonzalo Cordero,30,Criminología,27012367
+Diego Cuervo,26,Matemáticas Financieras,27034589
+Leonardo Jiménez,25,Ingeniería Mecánica,27056701
+Mariana Castro,23,Ingeniería Electrónica,27089101
+Sofia Reyes,29,Psicología,27067890
+Valeria Jimenez,24,Química,27009876
+Felipe Ruiz,29,Geografía,27087654
+Laura Mendoza,35,Administración,27023456
+Santiago Herrera,21,Ingeniería Ambiental,27045678
+Fernando Ramos,28,Odontología,27065432
+Hugo Lozano,34,Estadística,27043210
+Valentina Delgado,21,Ingeniería de Sistemas,27009812
+Nicolas Becerra,29,Geología,27087690
+Julián Salinas,34,Psicopedagogía,27067890
+Alberto Castaño,30,Neurociencia,27045678
+Valeria Velez,22,Estudios Sociales,27087645
+Joaquín Torres,28,Matemáticas,27023401
+Gabriela Silva,26,Trabajo Social,27011234
+Oscar Velasquez,27,Lenguas Modernas,27076512
+Lucia Ortega,22,Arte,27034590
+Diana Salas,30,Antropología,27076567
+Felipe Gómez,30,Dirección de Proyectos,27054345
+Luciana Ramírez,26,Educación Física,27098734
+Cristina Medina,31,Filozofía,27023412
+Santiago Ocampo,29,Medicina Veterinaria,27067801
+Juan Perez,30,Ingeniería,27000012
+Rosa Paredes,24,Turismo,27089123
+Pablo Salazar,33,Relaciones Internacionales,27067812
+Esteban Castillo,26,Filología,27087612
+Marta Suárez,28,Filosofía,27000112
+Luis Martinez,34,Contabilidad,27012345
+Javier Sanchez,27,Comunicación,27054321
+Camila Castro,26,Biología,27034567
+Andres Rojas,30,Matemáticas,27098765
+Isabel Vargas,23,Historia,27076543
+Natalia Romero,32,Agronomía,27033333
+Victor Alvarado,29,Música,27056789
+Carla Andrade,32,Telecomunicaciones,27054312
+Ricardo Peña,28,Biomedicina,27034512
+Tatiana Silva,22,Ingeniería Civil,27054321
+Samantha Quiroga,27,Ingeniería Industrial,27012390
+hugo,24,psicologia,27587376
+Claudia Jiménez,30,Admin. de Empresas,27023489
+Juliana Parra,27,Matemáticas Aplicadas,27065456
